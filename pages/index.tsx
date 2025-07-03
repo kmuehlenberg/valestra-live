@@ -1,0 +1,1 @@
+<div style={{padding:"3rem"}}><h1>Welcome to Valestra</h1><p>This is your full site launch template.</p></div>
